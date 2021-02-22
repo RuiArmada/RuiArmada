@@ -13,4 +13,4 @@
 - To contact me, you can add me on Discord: Rui#3036 
 - You can also search my Linkdin account: https://www.linkedin.com/in/rui-armada-46917b15b/
 
-[![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiArmada)](https://github.com/anuraghazra/github-readme-stats)
+[![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiArmada&count_private=true&&show_icons=true&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=chartreuse-dark)
