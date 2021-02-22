@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**RuiArmada/RuiArmada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <p align='center'>
 	<h2>
     Wanting something does not give you the right to have it...
