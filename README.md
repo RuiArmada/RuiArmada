@@ -8,7 +8,7 @@
 	- Ezio Auditore
 </p>
 
-### Hi there, I'm Rui Armada
+### 👋 Hi there, I'm Rui Armada, you can call me Rui
 - Currently, I'm studying Software Engineering at University of Minho.
 - To contact me, you can add me on Discord: Rui#3036 
 - You can also search my Linkdin account: https://www.linkedin.com/in/rui-armada-46917b15b/
