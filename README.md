@@ -1,13 +1,3 @@
-<p align='center'>
-	<h2>
-    Wanting something does not give you the right to have it...
-  </h2>
-</p>
-<br>
-<p align='right'>
-	- Ezio Auditore
-</p>
-
 ### 👋 Hi there, I'm Rui Armada, you can call me Rui
 - Currently, I'm studying Software Engineering at University of Minho.
 - To contact me, you can add me on Discord: Rui#3036 
