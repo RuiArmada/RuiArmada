@@ -17,10 +17,4 @@
 - C++
 - Scratch
 
-## 📚 My Other usefull Skills
-- Photoshop
-- 3D Modeling (Zbrush)
-- 3D Painting (Substance Painter)
-- 3D Animation (Maya)
-
 [![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiArmada&count_private=true&&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
