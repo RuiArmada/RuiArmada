@@ -6,13 +6,4 @@
 [![Instagram badge](https://img.shields.io/badge/-@ruiarmada98-purple?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/rui_armada98/)
 [![Email badge](https://img.shields.io/badge/-ruifparmada-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ruifparmada@gmail.com)
 
-## 💻 My programming Skills
-
-- Python
-- Haskell
-- C
-- Java
-- Rust
-- C++
-
 [![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiArmada&count_private=true&&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
