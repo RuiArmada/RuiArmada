@@ -2,4 +2,4 @@
 - Currently, I'm studying Software Engineering at University of Minho.
 - To contact me, you can add me on Discord: Rui#3036 
 
-[![Rui's GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiArmada&count_private=true&&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
