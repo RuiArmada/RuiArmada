@@ -2,4 +2,16 @@
 - Currently, I'm studying Software Engineering at University of Minho.
 - To contact me, you can send an email to: ruifparmada@gmail.com
 
-[![Rui GitHub stats](https://github-readme-stats.vercel.app/api?username=RuiArmada&count_private=true&&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
+
+### Social
+<a href="https://www.linkedin.com/in/ruiarmada/">
+  <img align="left" alt="Rui's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />
+</a>
+
+<a href="https://www.instagram.com/rui_armada98/">
+  <img align="left" alt="Rui's Instagram" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111463.png" />
+
+<a href="https://www.facebook.com/rui.armada.3/">
+  <img align="left" alt="Rui's Facebook" width="22px" src="https://image.flaticon.com/icons/png/512/733/733547.png" />
+</a>
