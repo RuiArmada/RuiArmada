@@ -4,7 +4,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
 
-### Social
 <a href="https://www.linkedin.com/in/ruiarmada/">
   <img align="left" alt="Rui's Linkedin" width="22px" src="https://image.flaticon.com/icons/png/512/124/124011.png" />
 </a>
