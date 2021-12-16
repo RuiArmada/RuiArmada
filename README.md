@@ -15,6 +15,5 @@
 
 <br />
 <br />
-  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RuiArmada&layout=compact&theme=dracula)
+
  
