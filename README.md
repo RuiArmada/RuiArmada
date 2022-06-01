@@ -1,4 +1,4 @@
-### <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="30px"> Hi there! I'm Rui Armada.
+### <img src="https://raw.githubusercontent.com/RuiArmada/RuiArmada/master/hand_wave.gif" width="10px"> Hi there! I'm Rui Armada.
 - Currently, I'm studying Software Engineering at University of Minho.
 - To contact me, you can send an email to: ruifparmada@gmail.com
 
