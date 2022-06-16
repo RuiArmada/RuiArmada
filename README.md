@@ -4,4 +4,6 @@
 
 [![LinkedIn badge](https://img.shields.io/badge/-RuiArmada-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/miguel-gomes-4b11411b8/](https://www.linkedin.com/in/ruiarmada/))
 
- 
+ [![Instagram badge](https://img.shields.io/badge/-@rui_armada98-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rui_armada98/)
+
+[![Email badge](https://img.shields.io/badge/-RuiArmada-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruifparmada@gmail.com)
