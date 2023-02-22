@@ -2,8 +2,8 @@
 - Currently, I'm studying Software Engineering at University of Minho.
 - To contact me, you can send an email to: ruifparmada@gmail.com
 
-### Work I'm most proud of
-* **Graphical Computing Notes:** [CG-LEI notes](https://wide-joke-855.notion.site/Computa-o-Gr-fica-LEI-534cfe5f113e46298c8de27ebdcf3555)
+### ✨ Work I'm most proud of
+* **Graphical Computing theorical Notes:** [CG-LEI](https://wide-joke-855.notion.site/Computa-o-Gr-fica-LEI-534cfe5f113e46298c8de27ebdcf3555)
 * **3D Engine for viewing models:** [GEngine](https://github.com/RuiArmada/GEngine)
 * **Amazon inspired service in Prolog:** [GreenDestribution](https://github.com/RuiArmada/LEI/tree/main/LEI/3%20Year/1%20Semester/IA/Green-Distribution)
 
