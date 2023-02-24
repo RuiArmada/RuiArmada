@@ -5,10 +5,10 @@
 ### ✨ Work I'm most proud of:
 | Description | Link |
 | :---: | :---: |
-| **Graphical Computing theorical notes** | [CG-LEI](https://wide-joke-855.notion.site/Computa-o-Gr-fica-LEI-534cfe5f113e46298c8de27ebdcf3555) |
-| **Graphical Computing pratical notes** | [CG-LEI](https://github.com/RuiArmada/CG)
-| **Graphics Engine for viewing 3D models** | [CG-LEI](https://github.com/RuiArmada/GEngine) |
-| **Amazon inspired service in Prolog** | [IA-LEI](https://github.com/RuiArmada/LEI/tree/main/LEI/3%20Year/1%20Semester/IA/Green-Distribution) |
+| **Graphical Computing theorical notes** | [Theory](https://wide-joke-855.notion.site/Computa-o-Gr-fica-LEI-534cfe5f113e46298c8de27ebdcf3555) |
+| **Graphical Computing pratical notes** | [Pratical](https://github.com/RuiArmada/CG)
+| **Graphics Engine for viewing 3D models** | [GEngine](https://github.com/RuiArmada/GEngine) |
+| **Amazon inspired service in Prolog** | [Green-Distribution](https://github.com/RuiArmada/LEI/tree/main/LEI/3%20Year/1%20Semester/IA/Green-Distribution) |
 
 [![LinkedIn badge](https://img.shields.io/badge/-RuiArmada-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruiarmada/)
 [![Instagram badge](https://img.shields.io/badge/-RuiArmada-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rui_armada98/)
