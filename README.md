@@ -5,7 +5,6 @@
 ### ✨ Work I'm most proud of:
 | Description | Link |
 | :---: | :---: |
-| **Specialization: Graphical Computing** | [Notes](https://wide-joke-855.notion.site/Computa-o-Gr-fica-MEI-ddc429380c654a6dbb7897194b0542c1) |
 | **LEI: Graphical Computing** | [Theory](https://wide-joke-855.notion.site/Computa-o-Gr-fica-LEI-534cfe5f113e46298c8de27ebdcf3555) |
 | **LEI: Graphical Computing** | [Pratical](https://github.com/RuiArmada/CG)
 | **Graphics Engine for viewing 3D models** | [GEngine](https://github.com/RuiArmada/GEngine) |
