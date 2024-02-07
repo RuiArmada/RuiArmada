@@ -1,11 +1,11 @@
 ## 👋 Hi there! I'm Rui Armada.
 - Currently, I'm studying Software Engineering at University of Minho.
 - Major in Computer Graphics.
-- To contact me, you can send an email to: ruifparmada@gmail.com
+- To contact me, you can send an email to: ruifparmada@outlook.com
 
 [![LinkedIn badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ruiarmada/)
 [![Instagram badge](https://img.shields.io/badge/-Instagram-purple?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/rui_armada98/)
-[![Email badge](https://img.shields.io/badge/-WorkEmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruifparmada@gmail.com)
+[![Email badge](https://img.shields.io/badge/-WorkEmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:ruifparmada@outlook.com)
 
 ---
 
