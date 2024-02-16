@@ -3,7 +3,7 @@
 - Completed my Bachelor's in Software Engineering.
 - Currently pursuing my Master's in Software Engineering with a focus on:
   - Computer Graphics (final average of 18).
-  - Internet Engineering.
+  - Internet Engineering (currently working on it).
 
 - 🎓 Working on my thesis: "Boid Animation Rule System."
 
