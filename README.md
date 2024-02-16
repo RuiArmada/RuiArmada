@@ -3,7 +3,9 @@
 - Completed my Bachelor's in Software Engineering.
 - Currently pursuing my Master's in Software Engineering with a focus on:
   - Computer Graphics (final average of 18).
-  - Internet Engineering (currently doing).
+  - Internet Engineering.
+
+- 🎓 Working on my thesis: "Boid Animation Rule System."
 
 📧 To get in touch, feel free to email me at: [ruifparmada@outlook.com](mailto:ruifparmada@outlook.com)
 
