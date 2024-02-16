@@ -1,11 +1,13 @@
-## 👋 Hi there! I'm Rui Armada, a Software Engineering enthusiast.
+## 👋 Hi there! I'm Rui Armada.
 
-- Completed my Bachelor's in Software Engineering.
+### About Me:
+
+- Completed my Bachelor's in Software Engineering in January 2024.
 - Currently pursuing my Master's in Software Engineering with a focus on:
   - Computer Graphics (final average of 18).
-  - Internet Engineering (currently working on it).
+  - Internet Engineering (actively working on it).
 
-- 🎓 Working on my thesis: "Boid Animation Rule System."
+- 🎓 Currently working on my thesis: "Boid Animation Rule System."
 
 📧 To get in touch, feel free to email me at: [ruifparmada@outlook.com](mailto:ruifparmada@outlook.com)
 
