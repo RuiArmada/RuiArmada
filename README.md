@@ -5,7 +5,7 @@
 - Completed my Bachelor's in Software Engineering in January 2024.
 - Currently pursuing my Master's in Software Engineering with a focus on:
   - Computer Graphics (final average of 18).
-  - Internet Engineering (actively working on it).
+  - Internet Engineering.
 
 - 🎓 Currently working on my thesis: "Boid Animation Rule System." and working at Accenture as an App/Cloud associate.
 
