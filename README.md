@@ -7,7 +7,8 @@
   - Computer Graphics (final average of 18).
   - Internet Engineering.
 
-- 🎓 Currently working on my thesis: "Boid Animation Rule System." and working at Accenture as an App/Cloud associate.
+- 🎓 Currently working on my thesis: "Boid Animation Rule System."
+- 💻 Currently working at Accenture as an App/Cloud associate.
 
 📧 To get in touch, feel free to email me at: [ruifparmada@outlook.com](mailto:ruifparmada@outlook.com)
 
